@@ -2,7 +2,7 @@
 
 ## Build
 
-`npm run build` creates an optimized production build of your application. The output displays information about each route.
+`npm run build` creates an optimized production build.
 
 ## Development
 
